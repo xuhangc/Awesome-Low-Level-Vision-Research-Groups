@@ -49,6 +49,10 @@ A Collection of Low Level Vision Research Groups
 
 ### Mainland(大陆)
 
+#### BIT(北京理工大学)
+
+- [Jun Zhang-BIT(张军团队-北京理工大学)](https://bianlab.github.io/)
+
 #### BUAA(北京航空航天大学)
 
 - [Mai Xu-BUAA(徐迈团队-北京航空航天大学)](http://www.buaamc2.net/index.html)
