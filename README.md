@@ -120,6 +120,10 @@ A Collection of Low Level Vision Research Groups
 - [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
 - [Dong Liu-USTC(刘东团队-中国科学技术大学)](https://faculty.ustc.edu.cn/dongeliu/)
 
+#### SCUT(华南理工大学)
+
+- [Lianwen Jin-SCUT](金连文团队-华南理工大学)
+
 #### WHU(武汉大学)
 
 - [Chunxia Xiao-WHU(肖春霞团队-武汉大学)](http://graphvision.whu.edu.cn/)
