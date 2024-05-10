@@ -66,6 +66,10 @@ A Collection of Low Level Vision Research Groups
 
 - [Risheng Liu-DLUT(刘日升团队-大连理工大学)](https://rsliu.tech/)
 
+#### NJU(南京大学)
+
+- [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
+
 #### NJUST(南京理工大学)
 
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
