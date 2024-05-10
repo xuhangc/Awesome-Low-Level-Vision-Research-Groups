@@ -24,6 +24,10 @@ A Collection of Low Level Vision Research Groups
 
 ### Hong Kong(香港)
 
+#### HKU(香港大学)
+
+- [Dong Xu-HKU(徐东团队-香港大学)](https://www.cs.hku.hk/people/academic-staff/dongxu)
+
 #### CityU(香港城市大学)
 
 - [Rynson W.H. Lau-CityU(刘永雄团队-香港城市大学)](https://www.cs.cityu.edu.hk/~rynson/)
@@ -32,6 +36,7 @@ A Collection of Low Level Vision Research Groups
 
 - [Jiaya Jia-CUHK(贾佳亚团队-香港中文大学)](https://jiaya.me/)
 - [Tien-Tsing Wong-CUHK(黄田津团队-香港中文大学)](http://www.cse.cuhk.edu.hk/~ttwong/)
+- [Jinwei Gu-CUHK(顾金伟团队-香港中文大学)](http://www.gujinwei.org/)
 
 #### HKUST(香港科技大学)
 
@@ -68,6 +73,12 @@ A Collection of Low Level Vision Research Groups
 #### NKU(南开大学)
 
 - [Ming-Ming Cheng-NKU(程明明团队-南开大学)](https://mmcheng.net/)
+- [Chongyi Li-NKU(李重仪团队-南开大学)](https://li-chongyi.github.io/)
+
+#### NPU(西北工业大学)
+
+- [Yanning Zhang-NPU(张艳宁团队-西北工业大学)](https://teacher.nwpu.edu.cn/ynzhang.html)
+- 
 
 #### PKU(北京大学)
 
@@ -88,17 +99,31 @@ A Collection of Low Level Vision Research Groups
 
 - [Chao Dong-SIAT(董超团队-中科院深圳先进技术研究院)](http://xpixel.group/index.html)
 
+#### SJTU(上海交通大学)
+
+- [Yulun Zhang-SJTU(张宇伦团队-上海交通大学)](https://yulunzhang.com/)
+
 #### SYSU(中山大学)
 
 - [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
+
+#### Tencent(腾讯公司)
+
+- [Xintao Wang-Tencent(王鑫涛团队-腾讯公司)](https://xinntao.github.io/)
 
 #### UESTC(电子科技大学)
 
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
 
+#### USTC(中国科学技术大学)
+
+- [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
+- [Dong Liu-USTC(刘东团队-中国科学技术大学)](https://faculty.ustc.edu.cn/dongeliu/)
+
 #### WHU(武汉大学)
 
 - [Chunxia Xiao-WHU(肖春霞团队-武汉大学)](http://graphvision.whu.edu.cn/)
+- [Jiayi Ma-WHU(马佳义团队-武汉大学)](http://mvp.whu.edu.cn/jiayima/)
 
 #### XDU(西安电子科技大学)
 
@@ -116,6 +141,12 @@ A Collection of Low Level Vision Research Groups
 
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
 
+### Taiwan(台湾)
+
+#### NTHU(国立清华大学)
+
+- [Chia-Wen Lin-NTHU(林嘉文团队-国立清华大学)](https://www.ee.nthu.edu.tw/cwlin/)
+
 # Europe(欧洲)
 
 #### ETH Zurich(苏黎世联邦理工学院)
@@ -125,6 +156,16 @@ A Collection of Low Level Vision Research Groups
 #### University of Würzburg(维尔茨堡大学)
 
 - [Radu Timofte-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
+
+## Japan(日本)
+
+#### UTokyo(东京大学)
+
+- [Kiyoharu Aizawa-UTokyo](https://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml)
+
+#### Waseda(早稻田大学)
+
+- [Edgar Simo-Serra-Waseda University](https://esslab.jp/~ess/en/)
 
 # Singapore(新加坡)
 
@@ -142,10 +183,15 @@ A Collection of Low Level Vision Research Groups
 #### KAIST(韩国科学技术院)
 
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
+- [Munchurl Kim-KAIST](https://www.viclab.kaist.ac.kr/)
 
 #### KU(高丽大学)
 
 - [Chang-Su Kim-Korea University](http://mcl.korea.ac.kr/)
+
+#### POSTECH(浦项科技大学)
+
+- [Sunghyun Cho-POSTECH](https://www.scho.pe.kr/)
 
 #### SNU(首尔大学)
 
@@ -153,15 +199,27 @@ A Collection of Low Level Vision Research Groups
 
 # United Kingdom(英国)
 
+#### University of Bristol(布里斯托大学)
+
+- [David Bull-University of Bristol](https://david-bull.github.io/)
+
 #### Oxford(牛津大学)
 
 - [VGG](https://www.robots.ox.ac.uk/~vgg/)
 
 # United States(美国)
 
+#### CMU(卡内基梅隆大学)
+
+- [Srinivasa Narasimhan-CMU](https://www.cs.cmu.edu/~srinivas/)
+
 #### Columbia(哥伦比亚大学)
 
 - [Shree K. Nayar](https://www.cs.columbia.edu/~nayar/)
+
+#### Georgia Tech(佐治亚理工学院)
+
+- [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 
 #### Harvard(哈佛大学)
 
@@ -189,7 +247,7 @@ A Collection of Low Level Vision Research Groups
 
 #### UC Berkeley(加州大学伯克利)
 
-- [Alexei (Alyosha) Efros](https://people.eecs.berkeley.edu/~efros/)
+- [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
 
 #### UCLA(加州大学洛杉矶)
 
@@ -206,3 +264,4 @@ A Collection of Low Level Vision Research Groups
 #### UT Austin(德州大学奥斯汀)
 
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
+- [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
